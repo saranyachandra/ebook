@@ -1,5 +1,3 @@
-
-
 <?php $this->load->view('layout/admin/admin_css'); ?>
 <style>
 .error{
@@ -136,5 +134,4 @@
 </script>
 </body>
 
-<!-- Mirrored from motaadmin.dexignlab.com/xhtml/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Feb 2021 05:30:46 GMT -->
 </html>
